@@ -50,29 +50,29 @@ Maintains and services complaints based on priority using heap operations.
 - Demonstrated Use Cases
 The main() function includes detailed demonstrations of the following:
 
--> Inserting and Displaying Users
--> Searching by ID, Name, Email
--> Deleting Users and Verifying Deletion
--> Displaying and Deleting Grouped Users (By Country / Type)
--> Registering Multiple Complaints
--> Displaying and Servicing Complaints
--> Increasing Complaint Priority
--> Displaying Complaints by Country or User
+-> Inserting and Displaying Users<br>
+-> Searching by ID, Name, Email<br>
+-> Deleting Users and Verifying Deletion<br>
+-> Displaying and Deleting Grouped Users (By Country / Type)<br>
+-> Registering Multiple Complaints<br>
+-> Displaying and Servicing Complaints<br>
+-> Increasing Complaint Priority<br>
+-> Displaying Complaints by Country or User<br>
 
 Each operation is accompanied by output messages to demonstrate system behavior.
 
 ## Example Commands Used Internally
--> Insert(User)
--> Search(id / name / email / country / type)
--> Delete(id / name / email / country / type)
--> RegisterComplaint(Complaint)
--> ServiceComplaint()
--> IncreasePriority(Complaint*)
+-> Insert(User)<br>
+-> Search(id / name / email / country / type)<br>
+-> Delete(id / name / email / country / type)<br>
+-> RegisterComplaint(Complaint)<br>
+-> ServiceComplaint()<br>
+-> IncreasePriority(Complaint*)<br>
 
 ## License
 This project is for academic and personal educational use only. Not for commercial distribution without permission.
 
 ## Author
-Lumia Noman Qureshi
-BSCS – Computer Science Student
-FAST NUCES LHR
+Lumia Noman Qureshi<br>
+BSCS – Computer Science Student<br>
+FAST NUCES LHR<br>
