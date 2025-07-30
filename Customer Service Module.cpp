@@ -964,7 +964,7 @@ int main() {
 	list.Insert(u4);
 	list.Insert(u7);
 	cout << "-------------------------------------------------------\n";
-	cout << "\t\t******QUESTION 01*****\n";
+	cout << "\t\t******SAMPLE 01*****\n";
 	cout << "-------------------------------------------------------\n";
 	list.printAllUsers();
 	cout << endl;
@@ -979,7 +979,7 @@ int main() {
 	list.Search(55);
 
 	cout << "-------------------------------------------------------\n";
-	cout << "\t\t*****QUESTION 02*****\n";
+	cout << "\t\t*****SAMPLE 02*****\n";
 	cout << "-------------------------------------------------------\n";
 
 	cout << "\n***Searching User with Name Joy:\n";
@@ -1004,7 +1004,7 @@ int main() {
 	cout << endl;
 
 	cout << "-------------------------------------------------------\n";
-	cout << "\t\t*****QUESTION 03*****\n";
+	cout << "\t\t*****SAMPLE 03*****\n";
 	cout << "-------------------------------------------------------\n";
 
 	cout << "***Displaying Group Index Of Country:";
@@ -1046,7 +1046,7 @@ int main() {
 
 	cout << endl << endl;
 	cout << "-------------------------------------------------------\n";
-	cout << "\t\t*****QUESTION 04*****\n";
+	cout << "\t\t*****SAMPLE 04*****\n";
 	cout << "-------------------------------------------------------\n";
 
 	Complaint c1(1, 23, "gold", "Webpage is down", "Pakistan");
